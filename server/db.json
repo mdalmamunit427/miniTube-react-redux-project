@@ -1,0 +1,64 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "title": "Docker Tutorial for Beginners | Dockerize Any App in 2024",
+      "description": "Master Docker in one course; learn about images and containers on Docker Hub, running multiple containers with Docker Compose, automating workflows with Docker Compose Watch, and much more. 🐳",
+      "author": "JavaScript Mastery",
+      "date": "Jan 5, 2024",
+      "duration": "01:27:22",
+      "views": "82.8k",
+      "category": "docker",
+      "link": "https://www.youtube-nocookie.com/embed/GFgJkfScVNU?si=ECwxbyBn0gQ0yu1Z",
+      "thumbnail": "https://i.ytimg.com/vi/GFgJkfScVNU/maxresdefault.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Build and Deploy a Full Stack Next 14 MERN Events App with Stripe, Typescript, Tailwind",
+      "description": "Build an event organization web app like Eventbrite or Meetup with authentication, event management, search, filtering, categories, checkout, and payments using Next JS 14, Tailwind CSS, Shadcn, React Hook Form, Zod, Uploadthing, React-Datepicker, Mongoose, Clerk, and Stripe.",
+      "author": "JavaScript Mastery",
+      "date": "Dec 15, 2023",
+      "duration": "05:41:12",
+      "views": "100k",
+      "category": "mern",
+      "link": "https://www.youtube-nocookie.com/embed/zgGhzuBZOQg?si=Gv3vGFEf4sAuwjdl",
+      "thumbnail": "https://i.ytimg.com/vi/zgGhzuBZOQg/maxresdefault.jpg"
+    },
+    {
+      "id": "3",
+      "title": "How I Made My Website Load in 0.364 Seconds",
+      "description": "In this video, you'll build the official jsmastery.pro website and learn how to build insanely fast websites with Next.js 14!",
+      "author": "JavaScript Mastery",
+      "date": "Sep 18, 2023",
+      "duration": "02:33:06",
+      "views": "106k",
+      "category": "react",
+      "link": "https://www.youtube-nocookie.com/embed/3WCIyNOrzwM?si=2xwztxl03A_ytfBP",
+      "thumbnail": "https://i.ytimg.com/vi/3WCIyNOrzwM/maxresdefault.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Build and Deploy a Full Stack Social Media App | React JS, Appwrite, Tailwind CSS, React Query",
+      "description": "Build a modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more.",
+      "author": "JavaScript Mastery",
+      "date": "Oct 27, 2023",
+      "duration": "5:50:46",
+      "views": "344.2k",
+      "category": "react",
+      "link": "https://www.youtube-nocookie.com/embed/_W3R2VwRyF4?si=YRNVOsDn8zJbSWSQ",
+      "thumbnail": "https://i.ytimg.com/vi/_W3R2VwRyF4/maxresdefault.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Next.js 14 Full Course 2024 | Build and Deploy a Full Stack App Using the Official React Framework",
+      "description": "Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 14 application.",
+      "author": "JavaScript Mastery",
+      "date": "May 5, 2023",
+      "duration": "1:30:12",
+      "views": "1M",
+      "category": "nextjs",
+      "link": "https://www.youtube-nocookie.com/embed/wm5gMKuwSYk?si=gHo4dj_Vg2HzQVPM",
+      "thumbnail": "https://i.ytimg.com/vi/wm5gMKuwSYk/maxresdefault.jpg"
+    }
+  ]
+}
